@@ -14,7 +14,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Web;
 
-[assembly: OwinStartup(typeof(Unity_Angular5_WebAPI2_ADO.Web.Web_Angular.App_Start.Startup))]
+[assembly: OwinStartup(typeof(Unity_WebAPI2_ADO.App_Start.Startup))]
 namespace Unity_WebAPI2_ADO.App_Start
 {
     public class Startup
