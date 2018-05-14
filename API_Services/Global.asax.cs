@@ -7,6 +7,7 @@ using System.Web.Routing;
 using System.Web.Security;
 using System.Web.SessionState;
 using System.Web.Http;
+using API_Services.App_Start;
 
 namespace API_Services
 {
@@ -15,6 +16,8 @@ namespace API_Services
         void Application_Start(object sender, EventArgs e)
         {
             // Code that runs on application startup
+            AreaRegistration.RegisterAllAreas();
+            UnityConfig.RegisterComponents();
             AreaRegistration.RegisterAllAreas();
             GlobalConfiguration.Configure(WebApiConfig.Register);
             RouteConfig.RegisterRoutes(RouteTable.Routes);            

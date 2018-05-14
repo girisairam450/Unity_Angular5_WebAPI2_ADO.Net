@@ -3,3 +3,4 @@ C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Common\bin\Debug\Common.pdb
 C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Common\obj\Debug\Common.dll
 C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Common\obj\Debug\Common.pdb
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

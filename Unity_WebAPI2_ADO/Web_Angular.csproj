@@ -148,6 +148,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Bundles\styles.bundle.css" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
@@ -166,6 +167,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
+    <Content Include="Bundles\styles.bundle.css.map" />
     <None Include="packages.config" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Scripts\opensans_regular.0fed94adcde2c92a8333.woff2" />
