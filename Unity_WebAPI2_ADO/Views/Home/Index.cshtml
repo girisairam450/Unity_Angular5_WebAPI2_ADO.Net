@@ -1,0 +1,23 @@
+﻿@using Microsoft.Owin.Security;
+@using Microsoft.Owin.Security.OpenIdConnect;
+
+@if (!Request.IsAuthenticated)
+{
+    System.Web.HttpContext.Current.GetOwinContext().Authentication.Challenge(
+                new AuthenticationProperties { RedirectUri = "/" },
+                OpenIdConnectAuthenticationDefaults.AuthenticationType);
+    @*<app-root></app-root>*@
+}
+@{
+    var claimsIdentity = @User.Identity as System.Security.Claims.ClaimsIdentity;
+}
+<script>
+    var userInfo = "@User.Identity.Name";
+    var userGuid = "@claimsIdentity.FindFirst("http://schemas.microsoft.com/identity/claims/objectidentifier").Value"
+    var loginName ="@claimsIdentity.FindFirst(System.Security.Claims.ClaimTypes.GivenName).Value";
+
+</script>
+@*<script src="../../Ng_App/src/omniture.js"></script>*@
+
+<app-root></app-root>
+
