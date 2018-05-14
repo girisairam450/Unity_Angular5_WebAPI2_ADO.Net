@@ -1,0 +1,5 @@
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Data_Layer\bin\Debug\Data_Layer.dll
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Data_Layer\bin\Debug\Data_Layer.pdb
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Data_Layer\obj\Debug\Data_Layer.csproj.CoreCompileInputs.cache
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Data_Layer\obj\Debug\Data_Layer.dll
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Data_Layer\obj\Debug\Data_Layer.pdb

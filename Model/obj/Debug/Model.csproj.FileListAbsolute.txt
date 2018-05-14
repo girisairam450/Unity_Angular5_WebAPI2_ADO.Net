@@ -1,0 +1,5 @@
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Model\bin\Debug\Model.dll
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Model\bin\Debug\Model.pdb
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Model\obj\Debug\Model.dll
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Model\obj\Debug\Model.pdb

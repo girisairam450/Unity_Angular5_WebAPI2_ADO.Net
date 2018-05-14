@@ -1,0 +1,6 @@
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Contracts\bin\Debug\Contracts.dll
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Contracts\bin\Debug\Contracts.pdb
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Contracts\obj\Debug\Contracts.dll
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\Contracts\obj\Debug\Contracts.pdb
