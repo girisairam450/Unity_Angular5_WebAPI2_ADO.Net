@@ -1,5 +1,7 @@
 ﻿using API_Services.Configuration;
+using Business_Layer.Managers;
 using Common.Unity;
+using Contracts.Business;
 using Services_WebApi2.App_Start.IoC;
 using System;
 using System.Collections.Generic;
@@ -33,7 +35,7 @@ namespace API_Services.App_Start
 
 
             //Managers
-            //container.BindInRequestScope<IMasterDataManager, MasterDataManager>();
+            container.BindInRequestScope<IEmployeeManager, EmployeeManager>();
 
             //Repositories
             //container.BindInRequestScope<IMasterDataRepository, MasterDataRepository>();

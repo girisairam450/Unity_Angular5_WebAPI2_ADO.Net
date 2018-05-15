@@ -64,3 +64,7 @@ C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\API_Services\bin\Microsoft.Owin.S
 C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\API_Services\bin\Microsoft.Owin.Security.Jwt.xml
 C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\API_Services\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\API_Services\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\API_Services\bin\Business_Layer.dll
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\API_Services\bin\Contracts.dll
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\API_Services\bin\Business_Layer.pdb
+C:\Users\gragam\source\repos\Unity_WebAPI2_ADO\API_Services\bin\Contracts.pdb

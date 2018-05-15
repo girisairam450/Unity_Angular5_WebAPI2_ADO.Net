@@ -182,6 +182,7 @@
     <Compile Include="Configuration\IWebAppConfiguration.cs" />
     <Compile Include="Configuration\WebAppConfiguration.cs" />
     <Compile Include="Controllers\BaseApiController.cs" />
+    <Compile Include="Controllers\EmployeeController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -209,11 +210,20 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\Employee\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Business_Layer\Business_Layer.csproj">
+      <Project>{0E45E222-B3EA-456E-A79B-96376BC903AC}</Project>
+      <Name>Business_Layer</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Common\Common.csproj">
       <Project>{FB59F763-AEEC-4BB3-8CD8-EB0324CA54CC}</Project>
       <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Contracts\Contracts.csproj">
+      <Project>{DA1769F1-41C6-4403-87A3-0D11C1317246}</Project>
+      <Name>Contracts</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
